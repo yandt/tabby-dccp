@@ -1,13 +1,6 @@
-# Clippy (example plugin)
+# Tabby plug-in Dccp
 
-#### For the Tabby terminal
+Double click copy, Right click paste
 
-![Screenshot](./screenshot.png)
+Problem: Right click to bring up a context menu
 
-This plugin demonstrates:
-
-* Terminal decorators
-* Hotkeys
-* Context menu items
-* Config file options
-* Setting tabs
