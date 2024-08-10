@@ -1,6 +1,6 @@
 {
   "name": "tabby-dccp",
-  "version": "1.0.0",
+  "version": "0.5.0",
   "description": "Double click copy, Right click paste",
   "keywords": [
     "tabby-plugin"
