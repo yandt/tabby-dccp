@@ -1,7 +1,7 @@
 {
-  "name": "tabby-clippy",
+  "name": "tabby-dccp",
   "version": "1.0.0",
-  "description": "An example plugin that annoys you.",
+  "description": "Double click copy, Right click paste",
   "keywords": [
     "tabby-plugin"
   ],
@@ -15,7 +15,7 @@
   "files": [
     "dist"
   ],
-  "author": "Eugene Pankov",
+  "author": "yandt",
   "license": "MIT",
   "devDependencies": {
     "@angular/animations": "^12.0.0",
@@ -26,20 +26,19 @@
     "@ng-bootstrap/ng-bootstrap": "^2.2.0",
     "@types/webpack-env": "^1.16.0",
     "apply-loader": "^2.0.0",
-    "clippyjs": "^0.0.3",
     "css-loader": "^5.1.1",
-    "node-sass": "^5.0.0",
+    "node-sass": "^9.0.0",
     "pug": "^2.0.3",
     "pug-loader": "^2.4.0",
     "rxjs": "^7.3.0",
     "sass-loader": "^11.0.1",
     "style-loader": "^2.0.0",
-    "tabby-core": "^1.0.156",
-    "tabby-settings": "^1.0.156",
-    "tabby-terminal": "^1.0.156",
+    "tabby-core": "^1.0.163",
+    "tabby-settings": "^1.0.163",
+    "tabby-terminal": "^1.0.163",
     "ts-loader": "^5.2.1",
     "typescript": "^4.2.3",
-    "webpack": "^5.24.4",
+    "webpack": "5.76.0",
     "webpack-cli": "^4.5.0"
   }
 }

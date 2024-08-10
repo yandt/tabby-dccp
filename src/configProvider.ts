@@ -1,13 +1,13 @@
 import { ConfigProvider } from 'tabby-core'
 
 /** @hidden */
-export class ClippyConfigProvider extends ConfigProvider {
+export class DccpConfigProvider extends ConfigProvider {
     defaults = {
-        clippyPlugin: {
-            agent: 'Clippy',
+        dccpPlugin: {
+            agent: 'Dccp',
         },
         hotkeys: {
-            'toggle-clippy': [],
+            'toggle-dccp': [],
         },
     }
 }
